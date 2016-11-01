@@ -133,7 +133,7 @@ border-color: #424242;
 #home-sec { 
   
     
-background: url(1.jpg) no-repeat 50% 50%;
+background: url(/ui/1.jpg) no-repeat 50% 50%;
 background-attachment: fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
